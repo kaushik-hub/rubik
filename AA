@@ -1,0 +1,10 @@
+public class Basics {
+    public static void series()
+    {
+      integer i=0; 
+       while(i<10)     
+        {
+            system.debug(i);
+            i++;
+        }
+    }}
